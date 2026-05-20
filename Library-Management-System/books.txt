@@ -1,0 +1,5 @@
+100|The C++ Programming Language|Bjarne Stroustrup|3|2
+101|Clean Code|Robert C. Martin|2|2
+102|Introduction to Algorithms|Cormen et al.|4|4
+103|Design Patterns|Gang of Four|2|2
+104|The Pragmatic Programmer|Hunt and Thomas|3|3
